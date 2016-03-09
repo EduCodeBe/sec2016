@@ -1,18 +1,18 @@
 <header>
     <div class="header-content" id="about">
         <div class="header-content-inner">
-            <h1 style="font-size: 36px">RMLL 2016:<br> The Security Track<br> 4-6 July 2016 in Paris</h1>
-            <hr>
+            <h1 style="font-size: 36px">RMLL 2016: The Security Track<br> 4-6 July 2016 in Paris</h1>
+            <br>
             <p>
-            <span style="font-size: 24px;">
-            <b><i>"Because not only Unicorns deserve Free Software and Security"</i></b><br>
+            <span style="font-size: 16px;">
+            <b><i>"Because not only Unicorns deserve Free Software and Security"</i></b>
             </span>
             <div  style="font-size: 18px; background-color: rgba(0,0,0,0.4); padding: 10px;" >
 No global RMLL this year ? True ! However, the Security Track will be held at Paris Mozilla office next July. Come and enjoy listening top OSS projects contributors, Security hackers or hacktivists speaking about Freedom and Security !  
             <br><br>
             <u>News :</u>
               <ul class="list-unstyled" > 
-                 {% for post in site.posts limit: 333 %}
+                 {% for post in site.posts limit: 2 %}
                  <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date_to_long_string }}</li>
                  {% endfor %}
               </ul>
