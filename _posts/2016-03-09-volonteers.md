@@ -10,6 +10,8 @@ published: true
 
 ---
 
+**Mise à jour:** nous avons trouvé nos 3 bénévoles (Eloïse, [Antoine](https://twitter.com/acervoise) et [Jean Côme](https://twitter.com/cdpointpoint)), bienvenu à eux :-) et merci à tous les autres ayant proposé leur aide !
+
 Cette année, malgré la non tenue des RMLL dans leur forme habituelle, avec Philippe Teuwen, Mathieu Blanc et Christophe Brocas, nous organisons le thème Sécurité des RMLL. Il se déroulera du 4 (après midi) au 6 Juillet 2016 chez Mozilla Paris.
 
 Le thème Sécurité des RMLL regroupe des conférences en langue anglaise tournant autour de la Sécurité (offensif, défensif, investigation numérique, vie privée, censure etc) et Logiciel Libre.
