@@ -35,7 +35,7 @@ The program of this 2016 edition of the RMLL Security Track is now published. We
 * 10:00-10:40 : [**Suricata**: mixing IPS/IDS mode](#suricata)  
   by **Giuseppe Longo** (Suricata developer)   
   --------- pause ---------
-* 11:00-11:40 : [**BINSEC**: binary-level semantic snalysis to the rescue](#binsec)  
+* 11:00-11:40 : [**BINSEC**: binary-level semantic analysis to the rescue](#binsec)  
   by **Sébastien Bardin** (BINSEC developer)    
 * 11:40-12:00 : [**Manalyze**, a static analyzer for PE files](#manalyze)  
   by **Ivan Kwiatkowski** (Manalyze developer)    
@@ -481,7 +481,7 @@ It has the following architecture :
 > Sebastien Blot works as a security consultant for NBS-System and is co-author and the NAXSI web application firewall. He enjoys discovering flaws in web applications and patching them, stealing cookies and drinking beer.
 
 ### <a name="binsec"></a>
-<h3><u>BINSEC: Binary-level Semantic Analysis to the Rescue</u></h3>
+<h3><u>BINSEC: Binary-level semantic analysis to the rescue</u></h3>
 
 > Several major classes of security analysis have to be performed on raw executable files, such as vulnerability analysis of mobile code or commercial off-the-shelf, deobfuscation or malware inspection. These analysis are very challenging, due to the very low-level and intricate nature of binary code, and they are still relatively poorly tooled -- essentially syntactic static analysis (disassembly) which is easy to fool, or dynamic analysis (fuzzing, monitoring) which may miss subtle behaviors. On the other hand, source-level program analysis and formal methods have made tremendous progress in the past decade, and they are now an industrial reality for safety-critical applications.  
 > 
