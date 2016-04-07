@@ -43,7 +43,7 @@ The program of this 2016 edition of the RMLL Security Track is now published. We
   by **Serge Guelton** (Binmap developer)  
   --------- Mid day pause --------
 * 14:00-14:40 : [**Let's Encrypt**: the road to encrypting all the things](#letsencrypt)  
-  by **J.C. James** (Mozilla Firefox Security, Let's Encrypt architect)    
+  by **J.C. Jones** (Mozilla Firefox Security, Let's Encrypt architect)    
 * 14:40-15:20 : [**Continuous Security** in a DevOps world](#ci)  
   by **Julien Vehent** (Mozilla OpSec)    
 * 15:20-16:00 : [The wonderful story of **web authentication and Single-Sign On**](#websso)  
@@ -355,7 +355,7 @@ to discover known attacks and also journalize protocol information.
 > In 16 months, Let’s Encrypt went from an idea to the 3rd largest Certificate Authority on the public web.  
 > J.C. Jones, one of the engineers who worked on Let’s Encrypt, will guide you through many of the challenges, decisions, and trade-offs that occurred along the way. 
 
-#### <a name="jcjames"></a>J.C. James
+#### <a name="jcjones"></a>J.C. Jones
 ![aa]({{ site.url }}/img/jcj.png)
 
 > J.C. is a security engineer at Mozilla, and spent about a year and a half as a principal on Let's Encrypt. Prior to Mozilla he co-founded a PKI-based startup in America’s Desert Southwest, where he lives. You can reach him on Twitter as [@JamesPugJones](https://twitter.com/JamesPugJones).
