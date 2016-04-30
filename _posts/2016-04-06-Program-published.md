@@ -45,7 +45,7 @@ The program of this 2016 edition of the RMLL Security Track is now published. We
 * 14:00-14:40 : [**Let's Encrypt**: the road to encrypting all the things](#letsencrypt)  
   by **J.C. Jones** (Mozilla Firefox Security, Let's Encrypt architect)    
 * 14:40-15:20 : [**Continuous Security** in a DevOps world](#ci)  
-  by **Julien Vehent** (Mozilla OpSec)    
+  by **Julien Vehent** (Mozilla Security)    
 * 15:20-16:00 : [The wonderful story of **web authentication and Single-Sign On**](#websso)  
   by **Clément Oudot** (LemonLDAP::NG project leader)  
   --------- pause ---------  
@@ -73,8 +73,8 @@ The program of this 2016 edition of the RMLL Security Track is now published. We
   by **Paul Rascagnères** (Sekoia CERT)  
   and **Sébastien Larinier** (Sekoia CERT)    
   --------- pause ---------
-* 15:40-16:20 : [**MIG**: Investigate 10,000 endpoints in 10s](#mig)  
-  by **Julien Vehent** (Mozilla OpSec)  
+* 15:40-16:20 : [**MIG**: Investigate 1,000 endpoints in 10s](#mig)  
+  by **Julien Vehent** (Mozilla Security)  
 * 16:20-17:00 : [**MOWR**: a virustotal-like service for web malwares](#mowr)    
   by **Julien Reveret** (MOWR developer)   
   and **Sébastien Blot** (MOWR developer)   
@@ -155,7 +155,7 @@ projects.
 
 
 ### <a name="mig"></a>
-<h3><u>Investigate 10,000 endpoints in 10s with MIG</u></h3>
+<h3><u>Investigate 1,000 endpoints in 10s with MIG</u></h3>
 > Mozilla operates thousands of servers that support Firefox and Firefox
 OS, and provide functionalities to more than 300 millions users. Systems
 are often heterogenous, are catered to the needs of particular services,
@@ -201,27 +201,15 @@ MIG in their own environments. If permitted, the talk will include a
 live demo on Mozilla’s infrastructure.  
 > [Website](http://mig.mozilla.org/) | [Github](https://github.com/mozilla/mig/)
 
-#### <a name="jvehent"></a>Julien Véhent
+#### <a name="jvehent"></a>Julien Vehent
 ![jv]({{ site.url }}/img/jv.png)
 
-> I lead security architecture for Mozilla’s Cloud Services organization.
-I am responsible for defining, implementing and operating the security
-of web services that millions of Firefox users interact with daily. I
-consult with development and operations teams on risks and security, and
-help integrate controls into our build pipeline.  
-> My focus has been on developing, operating and securing Internet
-services for the past fifteen years, starting as a Linux sysadmin in the
-early 2000s and graduating with a Master’s in Information Security in
-2007. I gained experience in the Financial sector in France, working on
-the customer portals of various french banks, then in startups in the US
-before joining Mozilla in 2013.  
-> I am a programmer and author of security tools. I started in C and
-released Honeybrid, a honeypot proxy, back in 2007. In 2012, I wrote
-AFW, an automated firewall that generates host-based rules within a Chef
-managed environment. At Mozilla, I wrote Cipherscan (TLS auditing),
-Mozilla InvestiGator (distributed digital forensics), SOPS (secrets
-encryption), Userplex (identity management), Autograph (digital
-signature micro-service) and dozens of smaller tools to automate
+> Julien manages the CloudSec team and is responsible for the security of
+Firefox's backend services (Firefox accounts, Sync, addons.mozilla.org,
+Push, Hello, ...). Mozilla CloudSec consults with developers and operations
+teams on risks and security, and builds security tools for the infrastructure.
+Julien is the author of the Mozilla Server Side TLS guidelines, Cipherscan,
+Mozilla InvestiGator (MIG), SOPS and many smaller tools to help DevOps integrate
 security in the organization.
 
 ### <a name="ci"></a>
