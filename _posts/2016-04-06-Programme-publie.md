@@ -1,24 +1,26 @@
 ---
-title: "The program is online"
+title: "Le programme est en ligne"
 layout: "post"
-permalink: /program/
+permalink: /programme/
 published: true 
 ref: program
-lang: en
+lang: fr 
 ---
 
-# The 2016 RMLL Security Track Program
+# Programme du Thème Sécurité RMLL 2016
 
 ---
 
 <center>
-<h4><i>"Because not only Unicorns deserve Free Software and Security"</i></h4>
+<h4><i>"Les Licornes ne sont pas les seules à mériter Sécurité et Logiciels Libres"</i></h4>
 </center><br/>
-The program of this 2016 edition of the RMLL Security Track is now published. We really want to **thank all the speakers that sent a proposal**, accepted or not, for the trust they put into this event. We are going to do the most we can to deserve it.  
+Le programme du Thème Sécurité des RMLL 2016 est désormais en ligne. Nous tenons à **remercier tous les conférenciers ayant soumis une proposition de conférence**, acceptée ou non, pour la confiance mise dans cet événement. Nous allons faire le maximum pour la mériter.  
 
-**Next step:** during the month of May, we will put online the booking interface to allow you to book a seat (100 seats max. in the Mozilla room). Cheers !
+**Prochaine étape:** pendant le mois de Mai, nous mettrons en ligne l'interface de réservation pour réserver une place (La salle chez Mozilla dispose de 100 places maximum). A bientôt !
 
-## _Monday 4th of July, 2016_
+Note : les conférences sont données en Anglais et description, diaporama et vidéo sont en Anglais aussi.
+
+## _Lundi 4 Juillet 2016_
 
 * 14:00-14:40 : [**KEYNOTE: Connecting Communities (with paper)**](#connectingcommunities)  
   by **Ange Albertini** (Corkami/PoC||GTFO)  
@@ -30,7 +32,7 @@ The program of this 2016 edition of the RMLL Security Track is now published. We
 * 16:20-17:00 : [**Qubes OS**: Improving client systems security with Qubes OS](#qubes)  
   by **Marek Marczykowski-Górecki** (Qubes OS lead developer)    
 
-## _Tuesday 5th of July, 2016_
+## _Mardi 5 Juillet 2016_
 
 * 09:20-10:00 : [**DNSSEC**](#dnssec)  
   by **Julien Pivotto** (devops & floss enthusiast)   
@@ -56,7 +58,7 @@ The program of this 2016 edition of the RMLL Security Track is now published. We
 * 17:00-17:40 : [**Cryptocat**: the first Cryptocat talk in quite some time ...](#cryptocat)  
   by **Nadim Kobeissi** (Cryptocat project leader)   
   
-## _Wednesday 6th of July, 2016_
+## _Mercredi 6 Juillet 2016_
 
 * 09:20-10:00 : [**Git**: Speaking about **securing code**, let start with VCS and Git especially](#git)  
   by **Anne Nicolas** (Git trainer and co founder of Hupstream)    

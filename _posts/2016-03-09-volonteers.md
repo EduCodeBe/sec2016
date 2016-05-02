@@ -2,7 +2,9 @@
 title: "On recherche des volontaires"
 layout: "post"
 permalink: /volontaires/
-published: true 
+published: true
+lang: fr
+ref: volunteers 
 ---
 
 # Nous recherchons des volontaires 
