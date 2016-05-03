@@ -41,7 +41,7 @@ The program of this 2016 edition of the RMLL Security Track is now published. We
   by **Sébastien Bardin** (BINSEC developer)    
 * 11:40-12:00 : [**Manalyze**, a static analyzer for PE files](#manalyze)  
   by **Ivan Kwiatkowski** (Manalyze developer)    
-* 12:00-12:20 : [**Binmap**: scanning file systems with Binmap](binmap)  
+* 12:00-12:20 : [**Binmap**: scanning file systems with Binmap](#binmap)  
   by **Serge Guelton** (Binmap developer)  
   --------- Mid day pause --------
 * 14:00-14:40 : [**Let's Encrypt**: the road to encrypting all the things](#letsencrypt)  
@@ -84,6 +84,7 @@ The program of this 2016 edition of the RMLL Security Track is now published. We
 ## Talks List
 
 <a name="python-bandit"></a>
+<br>
 <h3><u>Python application security auditing with bandit</u></h3> 
 
 > While more and more code is written and connected on the internet,
@@ -219,7 +220,7 @@ Mozilla InvestiGator (MIG), SOPS and many smaller tools to help DevOps integrate
 security in the organization.
 
 <a name="ci"></a>
-<br/>
+<br>
 <h3><u>Continuous Security in a DevOps world</u></h3>
 
 > The Information Security world has yet to embrace the DevOps culture.
@@ -262,7 +263,8 @@ a DevOps culture in security. The audience will be given pointers to
 build and test controls into the continuous integration and continuous
 delivery pipelines.  
 
-### <a name="connectingcommunities"></a>
+<a name="connectingcommunities"></a>
+<br>
 <h3><u>KEYNOTE: Connecting Communities (with paper)</u></h3>
 
 > Abstract: %PDF-1.5 ustar PK\3\4 \xFF\xD8
@@ -272,7 +274,8 @@ delivery pipelines.
 
 > Reverse engineer - author of Corkami
 
-### <a name="websso"></a>
+<a name="websso"></a>
+<br>
 <h3><u>The wonderful story of Web Authentication and Single-Sign On</u></h3>
 
 > Single Sign On is part of the Web history: to secure access to content, authentication has been implemented, from the standard HTTP Basic to very complex protocols like SAML and OpenID Connect. Trough this presentation, we will try to see why all authentication standards seems to work the same way, and what are their differences. 
@@ -282,7 +285,8 @@ delivery pipelines.
 
 > Clément Oudot works for Savoir-faire Linux, a worldwide FOSS company. He is the leader of LemonLDAP::NG, a free WebSSO and Access Management software. He also works for other LDAP-related projects (OpenLDAP, LDAP Tool Box, LDAP Synchronization Connector).
 
-### <a name="diy"></a>
+<a name="diy"></a>
+<br>
 <h3><u>Hands-on security for DIY projects</u></h3>
 
 > Internet of Things (IoT) is the new trend in IT talks, meetings and magazines. Security communities follow the hype: most of the infosec conferences have already discussed how to break into a doorbell, a car, a toilet... As IoT diffused in the last years, so do DIY projects thanks to Arduino project, Raspberry Pi project and low cost 3D printers. You can easily find books about DIY in a bookstore, magazines are dedicated to this subject, and the web is full of blog about it. We know we must be careful of IoT and all its vulnerabilities... But we should also consider security while making a DIY project.  
@@ -294,7 +298,8 @@ delivery pipelines.
 
 > Antoine is an IT security engineer, skilled in infosec incident handling, pentest and audit. He enjoys I.T., electronics and D.I.Y. beers by night... and he’s fond of cigars!
 
-### <a name="suricata"></a>
+<a name="suricata"></a>
+<br>
 <h3><u>Suricata: mixing IPS/IDS mode </u></h3>
 
 > Suricata is an open source network intrusion detection and prevention system.It analyzes the traffic content against a set of signatures
@@ -311,7 +316,8 @@ to discover known attacks and also journalize protocol information.
 
 > Giuseppe is a software developer at Stamus Networks focused on the development of open source software for network security, like firewall and intrusion detection system. He started his contribution in the open source world with the Netfilter organization, which he is still a member of, then he joined in the OISF community. He previously worked as independent contractor for Emerging Threats involved in Suricata development. 
 
-### <a name="dnssec"></a>
+<a name="dnssec"></a>
+<br>
 <h3><u>DNSSEC </u></h3>
 
 > This talk will explain the basics of DNSSec and how you can use them to secure your infrastructure. DNSsec is quite an old technology but it is not adopted everywhere yet. Nowadays however it is quite easy to set that in place.  
@@ -324,7 +330,8 @@ to discover known attacks and also journalize protocol information.
 > Julien Pivotto is a young Open-Source consultant at Inuits where he is helping organisations with the deployment of long-term solutions based on Open-Source infrastructure.  
 > He is a strong believer in the devops movement and has technical focus towards infrastructure automation, continuous integration, monitoring and high availability  
 
-### <a name="cryptocat"></a>
+<a name="cryptocat"></a>
+<br>
 <h3><u>Cryptocat: the first Cryptocat talk in quite some time ...</u></h3>
 
 > In this talk I will discuss the major rewrite of Cryptocat. Interesting discussion points include the introduction of offline messaging, multi-device support, forward secrecy via the Axolotl ratchet, and more. The new client is a complete rewrite of the software and signals a new chapter in the history of  Cryptocat as a project.
@@ -334,7 +341,8 @@ to discover known attacks and also journalize protocol information.
 
 > Nadim writes Cryptocat.
 
-### <a name="poormanmailscanner"></a>
+<a name="poormanmailscanner"></a>
+<br>
 <h3><u>Building A Poor man’s Fir3Ey3 Mail Scanner</u></h3>
 > Today, web surfing and email remain the common vectors of infection. Every day spam campaigns are flooding our mailboxes with tons of malicious attachments trying to lure our beloved users. There exist solutions to automatically analyze emails content like the well-known Fir3Ey3 EX appliance. However, these toys are very expensive.  
 > In my talk, I’ll briefly review different methods used by attackers to deliver and execute payloads on the victim computer. In a second phase, I’ll explain how to build a light platform to process malicious attachments on the fly and analyse them using VirusTotal and OLE analysis tools (the process being based on open source source solutions and a self-developed tool).  
@@ -345,7 +353,8 @@ to discover known attacks and also journalize protocol information.
 
 > Xavier Mertens is a freelance security consultant based in Belgium. His job focuses on protection his customer’s assets by applying “offensive” (pentesting) as well as “defensive” security (incident handling, log management, SIEM, security visualisation). Xavier is also a [security blogger](https://blog.rootshell.be), a [ISC SANS handler](https://isc.sans.org) and co-organizer of the [BruCON](http://www.brucon.org) security conference.
 
-### <a name="letsencrypt"></a>
+<a name="letsencrypt"></a>
+<br>
 <h3><u>Let’s Encrypt: The Road To Encrypting All The Things</u></h3>
 > In 16 months, Let’s Encrypt went from an idea to the 3rd largest Certificate Authority on the public web.  
 > J.C. Jones, one of the engineers who worked on Let’s Encrypt, will guide you through many of the challenges, decisions, and trade-offs that occurred along the way. 
@@ -355,7 +364,8 @@ to discover known attacks and also journalize protocol information.
 
 > J.C. is a security engineer at Mozilla, and spent about a year and a half as a principal on Let's Encrypt. Prior to Mozilla he co-founded a PKI-based startup in America’s Desert Southwest, where he lives. You can reach him on Twitter as [@JamesPugJones](https://twitter.com/JamesPugJones).
 
-### <a name="ring"></a>
+<a name="ring"></a>
+<br>
 <h3><u>Ring: a secure, distributed communication platform</u></h3>
 > In this talk, we plan to present and discuss the security design behind Ring, a fully distributed communication platform that protects user security and privacy.
 
@@ -364,7 +374,8 @@ to discover known attacks and also journalize protocol information.
 
 > Passionate about distributed networks, Adrien Béraud (OpenDHT and Ring Developer at Savoir-faire Linux) maintains the distributed hash table OpenDHT used for Ring. For Adrien, Ring is more than a communication tool. It is based on the community. Ring belongs to it and strengthens through it.
 
-### <a name="git"></a>
+<a name="git"></a>
+<br>
 <h3><u>Speaking about securing code, let start with VCS and Git especially</u></h3>
 > Use of a VCS is one of the most important best practise regarding development. Still it's also one of the biggest weakness. Based on more than 30 git training sessions and consulting in
 companies, we will try to sum up all good (and worst) practices.  
@@ -376,7 +387,8 @@ companies, we will try to sum up all good (and worst) practices.
 > After 8 years working for Mandriva as support engineer, release manager, she has founded with some other ex Mandriva guys her own company dedicated to free software integration in companies and administrations. She works on software packaging, industrialization of customized Linux distros,  git training and consulting.   
 > Anne organizes every year since now 4 years Kernel Recipes, 3 days talks about the Linux kernel, in Paris. She is also part of the Mageia distribution board.
 
-### <a name="misp"></a>
+<a name="misp"></a>
+<br>
 <h3><u>Using and abusing MISP to track campaigns</u></h3>
 > The security landscape evolves very fast and every day comes a new report about a brand new attacker, scarier than the day before and we have short memory so we tend to forget about what happened a few month ago.  
 > As of now, MISP is mostly a repository for incident responders where you can easily add new events and correlate them efficiently but not much work has been put into grouping the events together following  different indicators (type of target, technical indicators in the binaries, ...) after the fact.  
@@ -392,7 +404,8 @@ companies, we will try to sum up all good (and worst) practices.
 
 > Raphaël is a CERT operator at CIRCL, the CERT for the private sector, communes and non-governmental entities in Luxembourg. His main activity is developing or participating to the development of tools (Github [personnal account](https://github.com/Rafiot), [work account](https://github.com/CIRCL/), [MISP account](https://github.com/MISP), [write a MISP module](https://github.com/viper-framework/viper)) to improve and ease the day-to-day incident response capabilities of the CSIRT he works for but also for other teams doing similar activities. Another big part of his activities is to administrate the biggest MISP instance in Europe ([information on how to get access to the platform](https://www.circl.lu/services/misp-malware-information-sharing-platform/)) with >250 companies, 600 users and more than 300.000 attributes. This is the source used in this research project.
 
-### <a name="manalyze"></a>
+<a name="manalyze"></a>
+<br>
 <h3><u>Manalyze, a static analyzer for PE files</u></h3>
 > During this talk, I would like to present a free open-source (GPLv3) tool, written in C++, that I've been working on for two years on my spare time. It was designed as a helper program which speeds-up the job of a malware analyst by automating repetitive tasks. It can also be used for malware triage, in order to determine which files are worth analyzing manually.
 It has the following architecture :  
@@ -423,7 +436,8 @@ It has the following architecture :
 
 > Ivan Kwiatkowski ([@JusticeRage](https://twitter.com/JusticeRage)) is a 27 year old security researcher from Paris. Noteworthy hobbies include writing fiction and replying to Nigerian scams.
 
-### <a name="qubes"></a>
+<a name="qubes"></a>
+<br>
 <h3><u>Improving client systems security with Qubes OS</u></h3>
 
 > A quick introduction to Qubes OS and why it matters, followed by few specific examples of Qubes OS specific use cases.
@@ -433,7 +447,8 @@ It has the following architecture :
 
 > Marek is the Qubes OS lead developer, experienced Linux administrator and trainer of Linux administration.
 
-### <a name="binmap"></a>
+<a name="binmap"></a>
+<br>
 <h3><u>Scanning File systems with Binmap</u></h3>
 
 > Binmap is an Open Source tool designed to quickly scan a file system, gather various information on the binaries it finds and store them for futher processing by third-party tools.  
@@ -460,7 +475,8 @@ It has the following architecture :
 
 > Serge is a pure product of the French Far West: He received his Engineering degree and PhD on Compilation near Brest and since then he has been travelling in the marvelous world of computer science, from HPC to submarine acoustic and now the funny interaction between security and compilation as an R&D engineer for Quarkslab.
 
-### <a name="mowr"></a>
+<a name="mowr"></a>
+<br>
 <h3><u>MOWR, A virustotal-like service for web malwares</u></h3>
 
 > We're setting up a web service to analyze suspicious files found on web servers to determine whether they're a potential threat to your server or infrastructure. It's called MOWR (More Obvious Web-malware Repository) and aims at becoming as useful as virustotal is for common viruses. Code will be published under free software licence at the time of the RMLL talk. 
@@ -475,7 +491,8 @@ It has the following architecture :
 
 > Sebastien Blot works as a security consultant for NBS-System and is co-author and the NAXSI web application firewall. He enjoys discovering flaws in web applications and patching them, stealing cookies and drinking beer.
 
-### <a name="binsec"></a>
+<a name="binsec"></a>
+<br>
 <h3><u>BINSEC: Binary-level semantic analysis to the rescue</u></h3>
 
 > Several major classes of security analysis have to be performed on raw executable files, such as vulnerability analysis of mobile code or commercial off-the-shelf, deobfuscation or malware inspection. These analysis are very challenging, due to the very low-level and intricate nature of binary code, and they are still relatively poorly tooled -- essentially syntactic static analysis (disassembly) which is easy to fool, or dynamic analysis (fuzzing, monitoring) which may miss subtle behaviors. On the other hand, source-level program analysis and formal methods have made tremendous progress in the past decade, and they are now an industrial reality for safety-critical applications.  
@@ -491,7 +508,8 @@ It has the following architecture :
 
 > Sébastien Bardin joined CEA LIST, France, in 2006 as a full-time researcher. Since then, its main research interests are the automatic analysis of executable files -- from a safety point of view at first and now from a security point of view, automatic white-box testing through symbolic execution and low-level constraint solving. He is one of the main designers and developers of the binary-level symbolic execution tool OSMOSE (2008), and the Principal Investigator of the ANR projects BINCOA (2009-2012) and BINSEC (2013-2017) about binary-level program analysis, for safety and security. He is now one of the main designers of the (open-source) BINSEC platform for binary-level code analysis, to be released in Spring 2016. Sébastien Bardin obtained his PhD in 2005 at ENS Cachan, France, under the guidance of Pr. Alain Finkel. His doctoral work was centered on the verification of infinite-state systems by means of model checking, symbolic representations and loop acceleration. He also co-developed the infinite-state model-checker FAST.  
 
-### <a name="fastir"></a>
+<a name="fastir"></a>
+<br>
 <h3><u>Complex malware & forensics investigation</u></h3>
 > This presentation explains how malware analyst and forensic investigator can work together. The purpose is to select several advanced threats (for example, Uroburos, ComRAT, Babar, Casper…) and to show how a reverser and a forensic investigator can be complementary.  
 > The presentation is mainly based on the open source tool FastIR Collector developed by SEKOIA and available on [Github](https://github.com/SekoiaLab/Fastir_Collector). The presentation will present what kinds of artifacts the tools is able to collect and how to identify the infection.  
