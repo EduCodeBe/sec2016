@@ -12,7 +12,7 @@ lang: fr
 ---
 
 <center>
-<h4><i>"Les Licornes ne sont pas les seules à mériter Sécurité et Logiciels Libres"</i></h4>
+<h4><i>"Car les Licornes ne sont pas les seules à mériter Sécurité et Logiciels Libres"</i></h4>
 </center><br/>
 Le programme du Thème Sécurité des RMLL 2016 est désormais en ligne. Nous tenons à **remercier tous les conférenciers ayant soumis une proposition de conférence**, acceptée ou non, pour la confiance mise dans cet événement. Nous allons faire le maximum pour la mériter.  
 
