@@ -16,12 +16,12 @@ lang: fr
 </center><br/>
 Le programme du Thème Sécurité des RMLL 2016 est désormais en ligne. Nous tenons à **remercier tous les conférenciers ayant soumis une proposition de conférence**, acceptée ou non, pour la confiance mise dans cet événement. Nous allons faire le maximum pour la mériter.  
 
-**Prochaine étape:** pendant le mois de Mai, nous mettrons en ligne l'interface de réservation pour réserver une place (La salle chez Mozilla dispose de 100 places maximum). A bientôt !
+**Prochaine étape:** pendant le mois de mai, nous mettrons en ligne l'interface de réservation pour réserver une place (La salle chez Mozilla dispose de 100 places maximum). A bientôt !
 
-**Note :** les conférences sont données en Anglais. 
-Ce fait a été dicté par deux choix que nous avons fait. 
+**Note :** les conférences sont données en anglais. 
+Ce fait a été dicté par deux choix que nous avons faits. 
 
-D'une part, notre volonté de vous proposer la venue de conférenciers non francophones, spécialistes de leur sujet et apportant leur expertise. Cette venue permet aussi la confrontation de points de vue et d'expériences différents.   
+D'une part, c'est notre volonté de vous proposer la venue de conférenciers non francophones, spécialistes de leur sujet et apportant leur expertise. Cette venue permet aussi la confrontation de points de vue et d'expériences différents.   
 
 Et d'autre part, nous voulions fournir en retour à ces conférenciers une expérience la plus inclusive possible en leur permettant de suivre au mieux la conférence.   
 
