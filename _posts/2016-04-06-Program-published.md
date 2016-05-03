@@ -104,7 +104,9 @@ of the numerous way we can improve security.
 focusing on infrastructure issues. He lives in Paris, and he often speaks
 at events and gives tutorials to help open source communities.
 
-<h3><u><a name="verified-boot"></a>Verified boot and free software: reconciling freedom and
+<a name="verified-boot"></a>
+<br>
+<h3><u>Verified boot and free software: reconciling freedom and
 security</u></h3>
 
 > A growing number of modern computers, whether they're traditional x86
@@ -141,6 +143,7 @@ contributing to the U-Boot, Flashrom, Coreboot, Libreboot and Linux
 projects.  
 
 <a name="usb-armory"></a>
+<br>
 <h3><u>USB armory: the open source secure flash-drive-sized computer</u></h3> 
 
 > The availability of modern System on a Chip (SoC) parts, having low power consumption and high integration of most computer components in a single chip, empowers the open source community in creating all kind of embedded systems. The USB armory from Inverse Path is an open source hardware design, implementing a flash drive sized computer for security applications.   
@@ -156,7 +159,8 @@ projects.
 > He is a well known international speaker, having presented at BlackHat, CanSecWest, Chaos Communication Congress, DEFCON, Hack In The Box, among many other conferences, speaking about innovative research on automotive hacking, side-channel attacks, payment systems, embedded systems security and many other topics.  
 
 
-### <a name="mig"></a>
+<a name="mig"></a>
+<br>
 <h3><u>Investigate 1,000 endpoints in 10s with MIG</u></h3>
 > Mozilla operates thousands of servers that support Firefox and Firefox
 OS, and provide functionalities to more than 300 millions users. Systems
@@ -214,7 +218,8 @@ Julien is the author of the Mozilla Server Side TLS guidelines, Cipherscan,
 Mozilla InvestiGator (MIG), SOPS and many smaller tools to help DevOps integrate
 security in the organization.
 
-### <a name="ci"></a>
+<a name="ci"></a>
+<br/>
 <h3><u>Continuous Security in a DevOps world</u></h3>
 
 > The Information Security world has yet to embrace the DevOps culture.

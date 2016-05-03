@@ -7,7 +7,7 @@ description:
   en : The RMLL Security Track will be an autonomous event in 2016. Come to share Free Software and Security passion with others unicorns :)
   fr : Le thème Sécurité des RMLL sera un événement autonome en 2016. Venez partager votre passion pour le code libre et la Sécurité avec les autres licornes :)
 index:
-  en : 
+  en : index.html
   fr : accueil.html
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
@@ -34,19 +34,19 @@ translate:
   fr:
     home:
       name: "Accueil"
-      url: "/accueil.html"
+      url: "/accueil/"
     program:
       name: "Programme"
       url: "/programme/"
     archives:
       name: "Archives"
-      url: "/accueil.html#archives"
+      url: "/accueil/#archives"
     practical:
       name: "Informations pratiques & contact"
-      url: "/accueil.html#contact"
+      url: "/accueil/#contact"
     sponsors:
       name: "Partenaires"
-      url: "/accueil.html#sponsors"
+      url: "/accueil/#sponsors"
 
 twitter_username:
 github_username:
