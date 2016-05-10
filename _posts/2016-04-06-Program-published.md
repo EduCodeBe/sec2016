@@ -29,6 +29,8 @@ The program of this 2016 edition of the RMLL Security Track is now published. We
   by **Paul Kocialkowski** (Replicant project leader)  
 * 16:20-17:00 : [**Qubes OS**: Improving client systems security with Qubes OS](#qubes)  
   by **Marek Marczykowski-Górecki** (Qubes OS lead developer)    
+* 17:00-17:20 : [**Binmap**: scanning file systems with Binmap](#binmap)  
+  by **Serge Guelton** (Binmap developer)  
 
 ## _Tuesday 5th of July, 2016_
 
@@ -41,8 +43,6 @@ The program of this 2016 edition of the RMLL Security Track is now published. We
   by **Sébastien Bardin** (BINSEC developer)    
 * 11:40-12:00 : [**Manalyze**, a static analyzer for PE files](#manalyze)  
   by **Ivan Kwiatkowski** (Manalyze developer)    
-* 12:00-12:20 : [**Binmap**: scanning file systems with Binmap](#binmap)  
-  by **Serge Guelton** (Binmap developer)  
   --------- Mid day pause --------
 * 14:00-14:40 : [**Let's Encrypt**: the road to encrypting all the things](#letsencrypt)  
   by **J.C. Jones** (Mozilla Firefox Security, Let's Encrypt architect)    
