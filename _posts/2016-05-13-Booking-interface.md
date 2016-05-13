@@ -16,7 +16,9 @@ lang: en
 </center><br/>
 The **booking interface** will be online on Wednesday 18th, May.  
 
-**Next update 1: Tuesday 17th, May.** We will announce the hour of the launch.  
+**Next updates:**  
 
-**Next update 2: Wednesday 18th, May at the time given on Tuesday** We will give you the URL of the booking interface.  
+**-> Tuesday 17th, May:** we will announce the hour of the launch.  
+
+**-> Wednesday 18th, May at the time given on Tuesday:** we will give you the URL of the booking interface.  
 
