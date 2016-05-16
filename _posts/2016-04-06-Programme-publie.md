@@ -63,8 +63,6 @@ C'est un choix, c'est le notre et nous l'assumons :)
   --------- pause ---------  
 * 16:20-17:00 : [**Ring**: a secure, distributed communication platform](#ring)  
   by **Adrien Béraud** (OpenDHT maintainer, Ring developer)    
-* 17:00-17:40 : [**Cryptocat**: the first Cryptocat talk in quite some time ...](#cryptocat)  
-  by **Nadim Kobeissi** (Cryptocat project leader)   
   
 ## _Mercredi 6 Juillet 2016_
 
@@ -339,17 +337,6 @@ to discover known attacks and also journalize protocol information.
 
 > Julien Pivotto is a young Open-Source consultant at Inuits where he is helping organisations with the deployment of long-term solutions based on Open-Source infrastructure.  
 > He is a strong believer in the devops movement and has technical focus towards infrastructure automation, continuous integration, monitoring and high availability  
-
-<a name="cryptocat"></a>
-<br>
-<h3><u>Cryptocat: the first Cryptocat talk in quite some time ...</u></h3>
-
-> In this talk I will discuss the major rewrite of Cryptocat. Interesting discussion points include the introduction of offline messaging, multi-device support, forward secrecy via the Axolotl ratchet, and more. The new client is a complete rewrite of the software and signals a new chapter in the history of  Cryptocat as a project.
-
-#### <a name="nkobeissi"></a>Nadim Kobeissi
-![aa]({{ site.url }}/img/rmll.png)
-
-> Nadim writes Cryptocat.
 
 <a name="poormanmailscanner"></a>
 <br>
