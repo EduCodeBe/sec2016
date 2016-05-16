@@ -34,9 +34,9 @@ C'est un choix, c'est le notre et nous l'assumons :)
   by **Ange Albertini** (Corkami/PoC||GTFO)  
 * 14:40-15:20 : [**USB armory**: the open source secure flash-drive-sized computer](#usb-armory)  
   by **Andrea Barisani** (Inverse Path)  
-  --------- pause ---------
-* 15:40-16:20 : [**Verified boot and free software**: reconciling freedom and security](#verified-boot)  
+* 15:20-16:00 : [**Verified boot and free software**: reconciling freedom and security](#verified-boot)  
   by **Paul Kocialkowski** (Replicant project leader)  
+  --------- pause ---------
 * 16:20-17:00 : [**Qubes OS**: Improving client systems security with Qubes OS](#qubes)  
   by **Marek Marczykowski-Górecki** (Qubes OS lead developer)    
 * 17:00-17:20 : [**Binmap**: scanning file systems with Binmap](#binmap)  
@@ -58,9 +58,9 @@ C'est un choix, c'est le notre et nous l'assumons :)
   by **J.C. Jones** (Mozilla Firefox Security, Let's Encrypt architect)    
 * 14:40-15:20 : [**Continuous Security** in a DevOps world](#ci)  
   by **Julien Vehent** (Mozilla Security)    
-* 15:20-16:00 : [The wonderful story of **web authentication and Single-Sign On**](#websso)  
+  --------- pause --------- 
+* 15:20-16:20 : [The wonderful story of **web authentication and Single-Sign On**](#websso)  
   by **Clément Oudot** (LemonLDAP::NG project leader)  
-  --------- pause ---------  
 * 16:20-17:00 : [**Ring**: a secure, distributed communication platform](#ring)  
   by **Adrien Béraud** (OpenDHT maintainer, Ring developer)    
   
