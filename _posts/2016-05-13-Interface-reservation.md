@@ -14,10 +14,6 @@ lang: fr
 <center>
 <h4><i>"Because not only Unicorns deserve Free Software and Security"</i></h4>
 </center><br/>
-L'interface sera mise en ligne le mercredi 18 mai 2016.  
+L'URL de l'interface de réservation sera mise en ligne le **mercredi 18 mai 2016 à dix heures du matin, ici même**.  
 
-**Prochaines mises à jour :**  
-
-***-> mardi 17 mai :*** nous annoncerons l'heure de la mise en ligne.  
-***-> mercredi 18 mai à l'heure donnée mardi :*** nous vous indiquerons l'URL de l'interface de réservation.  
 
