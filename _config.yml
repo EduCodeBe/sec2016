@@ -22,6 +22,9 @@ translate:
     program:
       name: "Program"
       url: "/program/"
+    register:
+      name: "Registration"
+      url: "https://sec2016-booking.rmll.info/"
     archives:
       name: "Archives"
       url: "/#archives"
@@ -38,6 +41,9 @@ translate:
     program:
       name: "Programme"
       url: "/programme/"
+    register:
+      name: "Inscription"
+      url: "https://sec2016-booking.rmll.info/"
     archives:
       name: "Archives"
       url: "/accueil/#archives"

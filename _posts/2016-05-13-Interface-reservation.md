@@ -14,6 +14,9 @@ lang: fr
 <center>
 <h4><i>"Because not only Unicorns deserve Free Software and Security"</i></h4>
 </center><br/>
-L'URL de l'interface de réservation sera mise en ligne le **mercredi 18 mai 2016 à dix heures du matin, ici même**.  
+L'URL de l'interface de réservation est : [https://sec2016-booking.rmll.info/](https://sec2016-booking.rmll.info/) .  
+
+**Important :** nous mettons en ligne 60 places pour les participants. En parrallèle, 30 places sont dédiés aux conférenciers et aux membres de l'organisation. La capacité maximale de la salle est de 100 personnes.  
+
 
 
