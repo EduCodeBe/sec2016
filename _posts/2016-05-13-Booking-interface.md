@@ -15,7 +15,7 @@ lang: en
 <h4><i>"Because not only Unicorns deserve Free Software and Security"</i></h4>
 </center><br/>
 
-<span style="color:red;"><u><strong>Update:</strong></u> the 2016 RMLL Security Track seats sold out in one day. Thank you so much for the trust ! Mozilla will set up a live streaming. Slides will be put online during the conference. The videos will also be put online but after, when we will be able to :).</span>  
+<span style="color:red;"><u><strong>Update:</strong></u> the 2016 RMLL Security Track seats all sold out on May, 18th. Thank you so much for the trust ! Mozilla will set up a live streaming. Slides will be put online during the conference. The videos will also be put online but after, when we will be able to :).</span>  
 
 The **URL of the booking interface** is: [https://sec2016-booking.rmll.info/](https://sec2016-booking.rmll.info/).  
 
