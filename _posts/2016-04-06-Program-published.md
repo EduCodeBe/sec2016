@@ -77,7 +77,7 @@ The program of this 2016 edition of the RMLL Security Track is now published. We
   by **Julien Vehent** (Mozilla Security)  
 * 16:20-17:00 : [**MOWR**: a virustotal-like service for web malwares](#mowr)    
   by **Julien Reveret** (MOWR developer)   
-  and **Sébastien Blot** (MOWR developer)   
+  and **Antide Petit** (MOWR developer)   
 
 ## Talks List
 
@@ -473,10 +473,10 @@ It has the following architecture :
 
 > Julien Reveret is a senior security consultant at NBS-System, he already talked about Linux web servers forensic in 2015 at the RMLL security track. His skills are mainly rooting customers' servers and baking cookies.
 
-#### <a name="sblot"></a>Sebastion Blot
+#### <a name="apetit"></a>Antide Petit
 ![aa]({{ site.url }}/img/rmll.png)
 
-> Sebastien Blot works as a security consultant for NBS-System and is co-author and the NAXSI web application firewall. He enjoys discovering flaws in web applications and patching them, stealing cookies and drinking beer.
+> Antide Petit is works as a IT security intern for NBS-System. He is one of the MOWR developer.
 
 <a name="binsec"></a>
 <br>
