@@ -1,24 +1,25 @@
 ---
 title: "Code de conduite"
 layout: "post"
-permalink: /code-conduite/
+permalink: /code-of-conduct/
 published: true
-lang: fr
+lang: en
 ref: CoC
 ---
-
-# Code de Conduite 
-
+# Code of Conduct 
 
 ---
 
-Le Thème Sécurité des RMLL 2016 est un événement où nous voulons que chacun puisse se sentir bien et le vivre sans aucune appréhension.
+The RMLL 2016 Security Track is an event where we want everybody, regardless of age, gender, sexual orientation, skin color, physical appearance or disability, feel safe and comfortable and can come to without any worry.
 
-C'est pourquoi nous demandons à chacun :
-- Soyez prévenant⋅e⋅s et inclusif⋅ve⋅s : sexisme, racisme, homophobie et toutes autres formes d'agressions et d'exclusions sont à proscrire quelques que soient leur forme (écrite, orale, en ligne, en présentiel etc). Elle vous exposerait à une exclusion immédiate de l'événement.
-- En cas de problème ou pour signaler conflit, vous pouvez contacter les organisateurs⋅rices sur place qui porteront des t-shirts RMLL rouges. Nous tenterons de résoudre la situation ensemble.
-- En cas de conflit : dialoguons. Si quelqu'un vous signale une remarque ou une action gênante de votre part, écoutez, échangez. Si cela est impossible, venez nous trouver pour une médiation. 
+That's why we ask everyone to follow these rules :
 
-Merci pour nous tou.te.s :)
+* <b>Be excellent and inclusive to everyone :</b> sexism, racism, homophobia and all other kinks of exclusions and agressions are forbidden whatever their form (written, spoken, online, IRL etc). Such an attitude may expose you up to the immediate exclusion of the event.  
+
+* <b>In case of problem, feel free to reach us (RMLL crew members wear red t-shirts).</b> We are going to try to speak together in order to solve the problem.  
+
+* If somebody reports you <b>a blessing comment or action coming from you</b>, listen, exchange. If it is impossible, come to us for a mediation.     
+
+Thank to everybody :)
 
 

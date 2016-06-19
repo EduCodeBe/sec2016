@@ -23,11 +23,14 @@ translate:
       name: "Program"
       url: "/program/"
     register:
-      name: "Registration"
-      url: "https://sec2016-booking.rmll.info/"
+      name: "registration"
+      url: "https://sec2014-booking.rmll.info"
     archives:
       name: "Archives"
       url: "/#archives"
+    coc:
+      name: "Code of Conduct"
+      url: "/code-of-conduct/"
     practical:
       name: "Practical informations & contact"
       url: "/#contact"
@@ -47,6 +50,9 @@ translate:
     archives:
       name: "Archives"
       url: "/accueil/#archives"
+    coc:
+      name: "Code de conduite"
+      url: "/code-de-conduite"
     practical:
       name: "Informations pratiques & contact"
       url: "/accueil/#contact"
