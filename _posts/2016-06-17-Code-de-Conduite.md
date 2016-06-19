@@ -14,12 +14,10 @@ Le Thème Sécurité des RMLL 2016 est un événement où nous voulons que chacu
 
 C'est pourquoi nous demandons à chacun :
 
-* <b>Soyez prévenant⋅e⋅s et inclusif⋅ve⋅s :</b> sexisme, racisme, homophobie et toutes autres formes d'agressions et d'exclusions sont à proscrire quelques que soient leur forme (écrite, orale, en ligne, en présentiel etc). Une telle attidude si elle est avérée peut vous exposer jusqu'à l'exclusion immédiate de l'événement.  
+* <b>Soyez prévenant⋅e⋅s et inclusif⋅ve⋅s :</b> sexisme, racisme, homophobie et toute autre forme d'agression et d'exclusion est à proscrire quelle qu'elle soit (écrite, orale, en ligne, en présentiel etc). Une telle attitude si elle est avérée vous expose à l'exclusion immédiate de l'événement.  
 
-* <b>En cas de problème ou pour signaler conflit :</b> vous pouvez contacter les organisateurs⋅rices sur place qui porteront des t-shirts RMLL rouges. Nous tenterons de résoudre la situation ensemble.  
+* <b>En cas de problème ou si vou voulez signaler un conflit :</b> Contactez un⋅e des organisateurs⋅rices sur place qui porteront des t-shirts RMLL rouges. Nous tenterons de résoudre la situation ensemble.
 
-* Si quelqu'un vous signale une remarque ou <b>une action gênante de votre part</b>, écoutez, échangez. Si cela est impossible, venez nous trouver pour une médiation.   
+* Si quelqu'un vous signale <b>une remarque ou une action blessante de votre part</b>, écoutez, échangez. Si cela est impossible, venez nous trouver pour une médiation.   
 
 Merci pour nous tou.te.s :)
-
-
