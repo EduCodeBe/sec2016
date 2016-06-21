@@ -12,7 +12,7 @@ ref: volunteers
 
 ---
 
-<span style="color:red;"><u><strong>Mise à jour:</strong></u> nous avons trouvé nos 3 bénévoles (Eloïse, [Antoine](https://twitter.com/acervoise) et [Jean Côme](https://twitter.com/cdpointpoint)), bienvenu à eux :-) et merci à tous les autres ayant proposé leur aide !</span>
+<span style="color:red;"><u><strong>Mise à jour:</strong></u> nous avons trouvé nos 3 bénévoles (Eloïse, [Antoine](https://twitter.com/acervoise) et [Jean Côme](https://twitter.com/cdpointpoint)), bienvenue à eux :-) et merci à tous les autres ayant proposé leur aide !</span>
 
 Cette année, malgré la non tenue des RMLL dans leur forme habituelle, avec Philippe Teuwen, Mathieu Blanc et Christophe Brocas, nous organisons le thème Sécurité des RMLL. Il se déroulera du 4 (après midi) au 6 Juillet 2016 chez Mozilla Paris.
 

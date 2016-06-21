@@ -10,9 +10,9 @@ ref: CoC
 
 ---
 
-Le Thème Sécurité des RMLL 2016 est un événement où nous voulons que chacun puisse se sentir bien et le vivre sans aucune appréhension.
+Le Thème Sécurité des RMLL 2016 est un événement où nous voulons que chacun.e puisse se sentir bien et le vivre sans aucune appréhension.
 
-C'est pourquoi nous demandons à chacun :
+C'est pourquoi nous demandons à chacun.e :
 
 * <b>Soyez prévenant⋅e⋅s et inclusif⋅ve⋅s :</b> sexisme, racisme, homophobie et toute autre forme d'agression et d'exclusion est à proscrire quelle qu'elle soit (écrite, orale, en ligne, en présentiel etc). Une telle attitude si elle est avérée vous expose à l'exclusion immédiate de l'événement.  
 
