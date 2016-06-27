@@ -1,5 +1,5 @@
 ---
-title: "Code de conduite"
+title: "Code of Conduct"
 layout: "post"
 permalink: /code-of-conduct/
 published: true
