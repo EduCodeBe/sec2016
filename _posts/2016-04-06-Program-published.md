@@ -53,7 +53,8 @@ The program of this 2016 edition of the RMLL Security Track is now published. We
   by **Clément Oudot** (LemonLDAP::NG project leader)  
 * 16:20-17:00 : [**Ring**: a secure, distributed communication platform](#ring)  
   by **Adrien Béraud** (OpenDHT maintainer, Ring developer)    
-* 17:00-18:00 : **Rump session :-)**
+* 17:00-18:00 : [**Rump session** :-)](#rump)  
+  by **YOU**  
 
 ## _Wednesday 6th of July, 2016_
 
@@ -511,4 +512,10 @@ It has the following architecture :
 ![aa]({{ site.url }}/img/rmll.png)  
 
 > Sébastien Larinier currently is Senior Researcher and CTO at the CERT Sekoia located in Paris, member of the honeyproject chapter France and co organizer of botconf. Sébastien focused his work for the last 5 years on botnet hunting, early compromission detection, forensic and incident response. Python addict he supports different opensource projects like FastResponder, OSINT Framework, Malcom.  
+
+<a name="rump"></a>
+<br>
+<h3><u>Rump Session</u></h3>
+To be completed :)
+
 
