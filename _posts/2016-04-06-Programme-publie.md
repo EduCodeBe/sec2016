@@ -63,7 +63,8 @@ C'est un choix, c'est le notre et nous l'assumons :)
   by **Clément Oudot** (LemonLDAP::NG project leader)  
 * 16:20-17:00 : [**Ring**: a secure, distributed communication platform](#ring)  
   by **Adrien Béraud** (OpenDHT maintainer, Ring developer)    
-  
+* 17:00-18:00 : **Rump session :)**
+
 ## _Mercredi 6 Juillet 2016_
 
 * 09:20-10:00 : [**Git**: Speaking about **securing code**, let start with VCS and Git especially](#git)  

@@ -53,7 +53,8 @@ The program of this 2016 edition of the RMLL Security Track is now published. We
   by **Clément Oudot** (LemonLDAP::NG project leader)  
 * 16:20-17:00 : [**Ring**: a secure, distributed communication platform](#ring)  
   by **Adrien Béraud** (OpenDHT maintainer, Ring developer)    
-  
+* 17:00-18:00 : **Rump session :-)**
+
 ## _Wednesday 6th of July, 2016_
 
 * 09:20-10:00 : [**Git**: Speaking about **securing code**, let start with VCS and Git especially](#git)  
