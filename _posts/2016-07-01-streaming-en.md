@@ -6,11 +6,11 @@ published: true
 lang: en
 ref: Stream
 ---
-# Coneferences streaming 
+# Conferences streaming 
 
 ---
 
-If Murphy does not appear, you are going to be abe to follow 2016 RMLL Security Track talks through a live streaming. The access will be available on the [Air Mozilla](https://air.mozilla.org) homepage.  
+If Murphy does not appear, you are going to be able to follow 2016 RMLL Security Track talks through a live streaming. The access will be available on the [Air Mozilla](https://air.mozilla.org) homepage.  
 
 The individual URLs would normally be :  
 
