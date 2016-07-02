@@ -1,7 +1,7 @@
 ---
 title: "Streaming"
 layout: "post"
-permalink: /Streaming/
+permalink: /streaming/
 published: true
 lang: en
 ref: Stream
