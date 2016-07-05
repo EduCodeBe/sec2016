@@ -578,7 +578,7 @@ It has the following architecture :
 > 
 > I developed a tiny tool that get an email, process it and returns a
 > sanitized version, with log files:
-> https://github.com/CIRCL/PyCIRCLeanMail
+> <a href="https://github.com/CIRCL/PyCIRCLeanMail">https://github.com/CIRCL/PyCIRCLeanMail</a>
 > 
 > It is far from being usable by a non-dork, but this is the plan, and
 > I'll explain how.
