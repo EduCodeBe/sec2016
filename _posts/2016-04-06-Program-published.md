@@ -574,6 +574,14 @@ It has the following architecture :
 > It is far from being usable by a non-dork, but this is the plan, and
 > I'll explain how.
 
+<a name="rebus"></a>
+
+* [**REbus: make your security tools cooperate**](#rebus)
+  by Raphaël Rigo
+
+> REbus facilitates the coupling of existing tools that perform specific tasks,
+> where one's output will be used as the input of others.
+
 <a name="binsecdemo"></a>
 
 * [**Binsec in practice**](#binsecdemo)
@@ -581,11 +589,6 @@ It has the following architecture :
 
 > I will in few minutes, shows some functionalities of BINSEC, and
 > especially how to break the first FlareOn challenge.
-
-<a name="rebus"></a>
-
-* [**REbus: make your security tools cooperate**](#rebus)
-  by Raphaël Rigo
 
 <a name="root"></a>
 
