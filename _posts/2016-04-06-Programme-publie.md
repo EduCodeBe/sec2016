@@ -584,6 +584,19 @@ It has the following architecture :
 > It is far from being usable by a non-dork, but this is the plan, and
 > I'll explain how.
 
+<a name="binsecdemo"></a>
+
+* [**Binsec in practice**](#binsecdemo)
+  by Robin David
+
+> I will in few minutes, shows some functionalities of BINSEC, and
+> especially how to break the first FlareOn challenge.
+
+<a name="rebus"></a>
+
+* [**REbus: make your security tools cooperate**](#rebus)
+  by Raphaël Rigo
+
 <a name="root"></a>
 
 * [**RMLLSEC16: Feedback & lessons learned (or not...)**](#root)

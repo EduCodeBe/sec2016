@@ -478,7 +478,7 @@ It has the following architecture :
 #### <a name="apetit"></a>Antide Petit
 ![aa]({{ site.url }}/img/rmll.png)
 
-> Antide Petit is works as a IT security intern for NBS-System. He is one of the MOWR developer.
+> Antide Petit works as a IT security intern for NBS-System. He is one of the MOWR developer.
 
 <a name="binsec"></a>
 <br>
@@ -574,7 +574,21 @@ It has the following architecture :
 > It is far from being usable by a non-dork, but this is the plan, and
 > I'll explain how.
 
+<a name="binsecdemo"></a>
+
+* [**Binsec in practice**](#binsecdemo)
+  by Robin David
+
+> I will in few minutes, shows some functionalities of BINSEC, and
+> especially how to break the first FlareOn challenge.
+
+<a name="rebus"></a>
+
+* [**REbus: make your security tools cooperate**](#rebus)
+  by Raphaël Rigo
+
 <a name="root"></a>
 
 * [**RMLLSEC16: Feedback & lessons learned (or not...)**](#root)
   by Christophe Brocas
+
