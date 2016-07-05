@@ -515,7 +515,56 @@ It has the following architecture :
 
 <a name="rump"></a>
 <br>
+<br>
 <h3><u>Rump Session</u></h3>
-To be completed :)
 
+<a name="ardui"></a>
 
+* [**Ardui-no pown Android**](#ardui)
+  by Antoine Cervoise
+
+> Arduino is used as a keyboard for powning Windows, Linux or Mac OS by dropping a reverse shell. What if a Unicorn wants to do something similar on Android?
+
+<a name="ff"></a>
+
+* [**Firefox' Containers Feature**](#ff)
+  by Stéphanie Ouillon
+
+> Let's talk about a new feature coming in Firefox Nightly called the Containers Feature, which enables users to login to multiple accounts on the same site simultaneously and gives users the ability to segregate site data for improved privacy and security.
+
+<a name="ams"></a>
+
+* [**Amsterdamize your firewall**](#ams)
+  by Éric Leblond
+
+> Amsterdam is a Suricata docker container based system that is really easy to extend. Talk will show how you can add firewall logs to it.
+
+<a name="sans"></a>
+
+* [**SANS ISC Honeypot network**](#sans)
+  by Xavier Mertens
+
+> The SANS ISC (“Internet Storm Center”) is operating a worldwide network of honeypots. Recently a dedicated version of Cowrie was released to be used with a Raspberry Pi. We also collect 404 logs and firewall logs (or any “IP based” logs) to feed the DShield database. We need you to collect more and more useful data!
+
+<a name="jerk"></a>
+
+* [**The guide of a security jerk**](#jerk)
+  by Clément Oudot
+
+> I will try to explain in 3 minutes how to be a jerk in security
+
+<a name="cleanup"></a>
+
+* [**Automatic cleanup of emails** ...because email clients suck at it and you don't have bitcoins](#cleanup)
+
+> Did you know that thunderbird cannot filter emails on attachments? 	
+> Also, who in your family ever receive a legitimate office document with
+> a macro? or a javascript? or an exe file?
+> How often do they click on it and you ended up having to play helpdesk?
+> 
+> I developed a tiny tool that get an email, process it and returns a
+> sanitized version, with log files:
+> https://github.com/CIRCL/PyCIRCLeanMail
+> 
+> It is far from being usable by a non-dork, but this is the plan, and
+> I'll explain how.
