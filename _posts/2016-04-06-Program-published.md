@@ -560,6 +560,7 @@ It has the following architecture :
 <a name="cleanup"></a>
 
 * [**Automatic cleanup of emails** ...because email clients suck at it and you don't have bitcoins](#cleanup)
+  by Raphaël Vinot
 
 > Did you know that thunderbird cannot filter emails on attachments? 	
 > Also, who in your family ever receive a legitimate office document with
@@ -572,3 +573,8 @@ It has the following architecture :
 > 
 > It is far from being usable by a non-dork, but this is the plan, and
 > I'll explain how.
+
+<a name="root"></a>
+
+* [**RMLLSEC16: Feedback & lessons learned (or not...)**](#root)
+  by Christophe Brocas
