@@ -526,6 +526,10 @@ It has the following architecture :
 <a name="rump"></a>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 <h3><u>Rump Session</u></h3>
 
 <a name="ardui"></a>
