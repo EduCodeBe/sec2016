@@ -1,0 +1,1 @@
+Slides in reveal.js also visible at https://jvehent.github.io/continuous-security-talk/#/
