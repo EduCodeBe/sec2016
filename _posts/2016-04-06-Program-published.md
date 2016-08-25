@@ -16,7 +16,10 @@ lang: en
 </center><br/>
 The program of this 2016 edition of the RMLL Security Track is now published. We really want to **thank all the speakers that sent a proposal**, accepted or not, for the trust they put into this event. We are going to do the most we can to deserve it.  
 
-**Next step:** during the month of May, we will put online the booking interface to allow you to book a seat (100 seats max. in the Mozilla room). Cheers !
+**Media are available:** 
+
+* Slides: [https://sec2016.rmll.info/files/](https://sec2016.rmll.info//files/)
+* Videos: [https://rmll.ubicast.tv/channels/#2016-securite](https://rmll.ubicast.tv/channels/#2016-securite)
 
 ## _Monday 4th of July, 2016_
 

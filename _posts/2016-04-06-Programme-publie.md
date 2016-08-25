@@ -16,7 +16,10 @@ lang: fr
 </center><br/>
 Le programme du Thème Sécurité des RMLL 2016 est désormais en ligne. Nous tenons à **remercier tous les conférenciers ayant soumis une proposition de conférence**, acceptée ou non, pour la confiance mise dans cet événement. Nous allons faire le maximum pour la mériter.  
 
-**Prochaine étape:** pendant le mois de mai, nous mettrons en ligne l'interface de réservation pour réserver une place (La salle chez Mozilla dispose de 100 places maximum). A bientôt !
+**Les supports numériques sont désormais disponibles :**
+
+* Les diaporamas : [https://sec2016.rmll.info/files/](https://sec2016.rmll.info/files/)
+* Les vidéos : [https://rmll.ubicast.tv/channels/#2016-securite](https://rmll.ubicast.tv/channels/#2016-securite)
 
 **Langue :** les conférences sont données en anglais.  
 

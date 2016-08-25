@@ -22,9 +22,12 @@ translate:
     program:
       name: "Program"
       url: "/program/"
-    register:
-      name: "registration"
-      url: "https://sec2016-booking.rmll.info/"
+    slides:
+      name: "Slides"
+      url: "https://sec2016.rmll.info/files/"
+    videos:
+      name: "Videos"
+      url: "https://rmll.ubicast.tv/channels/#2016-securite"
     archives:
       name: "Archives"
       url: "/#archives"
@@ -32,7 +35,7 @@ translate:
       name: "Code of Conduct"
       url: "/code-of-conduct/"
     practical:
-      name: "Practical informations & contact"
+      name: "Practical"
       url: "/#contact"
     sponsors:
       name: "Sponsors"
@@ -44,17 +47,21 @@ translate:
     program:
       name: "Programme"
       url: "/programme/"
-    register:
-      name: "Inscription"
-      url: "https://sec2016-booking.rmll.info/"
+    slides:
+      name: "Diaporamas"
+      url: "https://sec2016.rmll.info/files/"
+    videos:
+      name: "Vidéos"
+      url: "https://rmll.ubicast.tv/channels/#2016-securite"
     archives:
+      url: "https://sec2016-booking.rmll.info/"
       name: "Archives"
       url: "/accueil/#archives"
     coc:
       name: "Code de conduite"
       url: "/code-de-conduite"
     practical:
-      name: "Informations pratiques & contact"
+      name: "Infos pratiques"
       url: "/accueil/#contact"
     sponsors:
       name: "Partenaires"
