@@ -1317,7 +1317,11 @@ window.Chart = function(context){
             graphMax = Math.ceil(maxValue / (1 * Math.pow(10, rangeOrderOfMagnitude))) * Math.pow(10, rangeOrderOfMagnitude);
             
             graphRange = graphMax - graphMin;
-            
+
+            // Ugly hack @doegox(TM)
+            graphRange = graphMax;
+            graphMin = 0;
+
             stepValue = Math.pow(10, rangeOrderOfMagnitude);
             
 	        numberOfSteps = Math.round(graphRange / stepValue);
