@@ -1319,6 +1319,8 @@ window.Chart = function(context){
             graphRange = graphMax - graphMin;
 
             // Ugly hack @doegox(TM)
+            if (graphMax > 20) {graphMax=100;}
+            if (graphMax < 5)  {graphMax=5;}
             graphRange = graphMax;
             graphMin = 0;
 
