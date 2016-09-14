@@ -71,7 +71,7 @@ Definitively not figures of a typical international conference but it proves tha
 
 We often use to say that the Security Track attendees are *not exactly* the same than the regular RMLL public. In order to add some facts to this feeling, we tried to know if our attendees were backed by their company to come or not.
 
-<div data-figure="chart" data-series="columns" data-type="line" data-focus="chart"></div>
+<div data-figure="chart" data-type="line" data-series="columns" data-focus="chart"></div>
 
 | Funds            | Percent of attendees | 
 | ---------------- | -------------------: |
@@ -136,7 +136,7 @@ Word of mouth and social/pro networks were very important in the way of RMLL Sec
 * open minded attendees, good quality and numerous networking exchanges (7) ,
 * good sized conference providing easy networking (4) .
 
-**Desired improvements:** 
+**Desired improvements (number of people mentionning the point):** 
 
 * having a social event (5) ,
 * having a coffee/hot drinks break before the start of the talks in the morning (1) .
@@ -164,7 +164,7 @@ Word of mouth and social/pro networks were very important in the way of RMLL Sec
 * a lately organized rump session ,
 * All curated talks were very appreciated by attendees .
 
-**Desired improvements (number of people mentionned the point):**
+**Desired improvements (number of people mentionning the point):**
 
 * a program comitee with review of proposals (2) ,
 * having more 20min talks in order to give rythm and concentrate on key points (1) ,
