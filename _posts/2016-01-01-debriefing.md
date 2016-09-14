@@ -71,7 +71,7 @@ Definitively not the numbers of a typical international conference but it proves
 
 We often used to say that the Security Track attendees are *not exactly* the same as the regular RMLL public. In order to add some facts to this feeling, we tried to know if our attendees were backed by their company to come or not.
 
-<div data-figure="chart" data-type="bar" data-series="columns" data-focus="chart" ></div>
+<div data-figure="chart" data-type="bar" data-series="rows" data-focus="chart" ></div>
 
 | Funds            | Percent of attendees | 
 | ---------------- | -------------------: |
@@ -148,7 +148,7 @@ NB : multiple choices were allowed.
 
 ### Talks satisfaction (or not)
 
-<div data-figure="chart" data-type="bar" data-series="columns" data-focus="chart"></div>
+<div data-figure="chart" data-type="line" data-series="columns" data-focus="chart"></div>
 
 | Areas                      | Satisfaction indice (on 5) |
 | -------------------------- | -------------------------: |
