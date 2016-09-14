@@ -14,14 +14,14 @@ We (the RMLLSec16 org team) decided to do a survey among our attendees to collec
 
 ## TL;DR:
 
-* Almost every registered people came,
-* People enjoyed a good sized conference,
-* Good quality exchanges and open minded people,
-* Talks were interesting,
+* Almost every registered person came;
+* People enjoyed a good sized conference;
+* Good quality exchanges and open minded people;
+* Talks were interesting;
 * Improvements:
-  * Having more networking moments (social event), 
-  * Set diversity as a main goal of the track,
-  * More 20min talks for dynamic,
+  * Having more networking occasions (social event); 
+  * Set diversity as one of our main goals;
+  * More 20min talks for dynamic;
   * More attention to communication during talks.
 
 ## Longer story
@@ -31,14 +31,14 @@ Please, find below the survey results and some of our conclusions and ideas :)
 **Survey figures:** 
 
 * 92 emails were sent to the 92 persons that finally came to the event (see below).
-* 46 people complete the survey. 
-* **50% of effective participation**. Not bad ioho :)
+* 46 people completed the survey. 
+* **50% of effective survey participation**. Not bad ioho :)
 
 ## About attendees
 
-### Everybody came ?
+### Did everybody come?
 
-How many people finally attend : **97 people registered, 3 people no show but were excused, 2 people simply no show**.
+How many people finally attend : **97 persons registered, 3 persons didn't show but were excused, 2 persons simply didn't show**.
 
 <div data-figure="chart" data-series="rows" data-focus="chart"></div>
 
@@ -48,11 +48,11 @@ How many people finally attend : **97 people registered, 3 people no show but we
 | No show, excused |   3.09%              |
 | No show          |   2.06%              |
 
-**Our feeling:** 
+**Our feelings:** 
 <br>
-We are __very pleased__ to have seen almost every registered people finally came to this free (no money engaged from their part so ...) event. **Thank you really for the trust** and for have been fair with us :)
+We are __very pleased__ to have seen almost every registered person finally came to this free event (no money was engaged from their part so ...). **Thank you really for the trust** and for having been fair with us :)
 
-### From where ?
+### From where?
 
 <div data-figure="chart" data-type="line" data-series="columns" data-focus="chart"></div>
 
@@ -63,13 +63,13 @@ We are __very pleased__ to have seen almost every registered people finally came
 | Europe           |  17.86%              |
 | Earth            |   4.34%              |
 
-**Our feeling:** 
+**Our feelings:** 
 <br>
-Definitively not figures of a typical international conference but it proves that setting English as talks language is a good way to have more than **20% of attendees (and often speakers) from outside of France**.
+Definitively not the numbers of a typical international conference but it proves that setting English as the talks language is a good way to have more than **20% of attendees (and often speakers) from outside of France**.
 
 ### Personal vs Professional
 
-We often use to say that the Security Track attendees are *not exactly* the same than the regular RMLL public. In order to add some facts to this feeling, we tried to know if our attendees were backed by their company to come or not.
+We often used to say that the Security Track attendees are *not exactly* the same as the regular RMLL public. In order to add some facts to this feeling, we tried to know if our attendees were backed by their company to come or not.
 
 <div data-figure="chart" data-type="line" data-series="columns" data-focus="chart"></div>
 
@@ -79,26 +79,28 @@ We often use to say that the Security Track attendees are *not exactly* the same
 | Professional     |  55.35%              |
 
 
-**Our feeling:** 
+**Our feelings:** 
 <br>
-Having **more than 55% of attendees coming on company funds** allows us to say that *for this edition* the public was professional oriented. The location (Paris) may also explain by part this tendancy (the FR Security scene is mainly coming from there). 
+Having **more than 55% of attendees coming on company funds** allows us to say that *for this edition* the public was somehow more professionally oriented. The location (Paris) may also partly explain this trend (French security scene is mainly located in Paris). 
 
 ### Diversity
 
-As said during the rump session, we took in charge this point very late (< 20 days before the event starts). 
+One side of some lack of diversity that we observed but didn't measure is that a lot of people came from the same professional circles.
 
-We made some efforts :
+Another side is the gender diversity. As said during the rump session, we took this point in charge very late (less than 20 days before the event beginning). 
 
-* setting up a [Code of Conduct](https://sec2016.rmll.info/code-of-conduct/), 
-* dedicate an amount of seats only to women who would like to attend.
+What we did :
 
-**Our feeling:** 
+* setting up a [Code of Conduct](https://sec2016.rmll.info/code-of-conduct/);
+* dedicating a number of seats for women who would like to attend.
+
+**Our feelings:** 
 <br>
-We finally reached a **11% of registered women** starting from 4%. The only conclusion is that we have to **set this goal since day one** if we really want to reach a good diversity level for the conference.
+We finally reached a **11% of registered women** starting from 4%. The conclusion is that we have to **set this goal since day one** in order to reach a good diversity level for the conference.
 
 ### Heard about us
 
-We were interested to know how attendees heard about RMLL Security Track, even more this year with this configuration of an autonomous conference.
+We were curious to know how attendees heard about RMLL Security Track, even more this year with this configuration of an autonomous conference.
 
 <div data-figure="chart" data-series="rows" data-focus="chart"></div>
 
@@ -109,13 +111,9 @@ We were interested to know how attendees heard about RMLL Security Track, even m
 | Professional Network |   23.91%             |
 | RMLL comitee site    |   13.04%             |
 
-NB : multi choices allowed.
+NB : multiple choices were allowed.
 
-**Our feeling:** 
-<br>
-Word of mouth and social/pro networks were very important in the way of RMLL Security Track was known. We can put in mirror the lack of diversity. A lot of people came from the same professional circles.
-
-## Satisfaction (or not), positive aspects and desired improvements 
+## Satisfaction level, positive aspects and improvements 
 
 ### General satisfaction (practical side)
 
@@ -129,24 +127,24 @@ Word of mouth and social/pro networks were very important in the way of RMLL Sec
 | Reception                   | 4.66                       |
 | Breaks                      | 4.57                       |
 
-**Positives points (number of people mentionning the point):**
+**Positives points (number of people mentionning it):**
 
-* cool, relax atmosphere (13) ,
-* caring, enthusiast and professional staff (7) ,
-* open minded attendees, good quality and numerous networking exchanges (7) ,
-* good sized conference providing easy networking (4) .
+* cool, relax atmosphere (13);
+* caring, enthusiast and professional staff (7);
+* open minded attendees, good quality and numerous networking exchanges (7);
+* good sized conference providing easy networking (4).
 
 **Desired improvements (number of people mentionning the point):** 
 
-* having a social event (5) ,
-* having a coffee/hot drinks break before the start of the talks in the morning (1) .
+* having a social event (5);
+* having a coffee/hot drinks break before the start of the talks in the morning (1).
 
-**Our feeling:** 
+**Our feelings:** 
 
 * We are of course very pleased from the fact that **almost everyone enjoyed** the conference on its practical and networking aspect. 
-* The fact that **the size of the conference eases exchanges** between attendees is a very positive signal for us.
+* The fact that **the size of the conference facilitates exchanges** between attendees is a very positive signal for us.
 * The importance you put on exchanges and networking is emphasized by your desire to **have a social event** for the conference. 
-  We noted the point and it can be **linked to the need for diversity** that would give even more quality to exchanges during breaks and social moments :) 
+  We took note of this point and it can be **linked to the need for diversity** that would give even more quality to exchanges during breaks and social moments :) 
 
 ### Talks satisfaction (or not)
 
@@ -159,22 +157,22 @@ Word of mouth and social/pro networks were very important in the way of RMLL Sec
 
 **Some facts about talks:**
 
-* Call for paper: 31 proposals, 20 talks accepted. Among 31, we directly contacted (aka curation) 6 speakers ,
-* 1 keynote ,
-* a lately organized rump session ,
-* All curated talks were very appreciated by attendees .
+* Call for paper: 31 proposals, 20 talks accepted. Among 31, we directly contacted (aka curation) 6 speakers;
+* 1 keynote;
+* a last minute rump session;
+* All curated talks were very appreciated by attendees.
 
 **Desired improvements (number of people mentionning the point):**
 
-* a program comitee with review of proposals (2) ,
-* having more 20min talks in order to give rythm and concentrate on key points (1) ,
-* speakers briefing about communication (1) .
+* a program committee to review the proposals (2);
+* more 20-min talks to get more rythm and concentrate on key points (1);
+* briefing the speakers about communication (1).
 
 **Our feelings:** 
 
-* We are happy to see that the talks issued from the mix between open Call For Paper and curation are well received by attendees.
-* We note the point about having some talks shrinked to 20min in order to focus on key points of the talk. 
-* For the program comitee, we are not sure to have reached the size for having such a process.
-* For the communication advices and presentation : we have not been consistent on providing guidance and assistance on this point to the speakers this year, we have to improve !
+* We are happy to see that talks issued from a mix of classical Call For Paper and curation are well received by attendees.
+* We took note of the point of having some talks shrinked to 20 mins to maintain rythm and focus on key points. 
+* About a program committee, we are not sure to have reached a proper size for having such a heavy process.
+* For the communication and presentation advices: indeed we have not been consistent on providing guidance and assistance on this point equally to all the speakers this year, we have to improve!
 
-**Thank to all the people who complete the survey and to this page readers !** 
+**Thank to all the people who completed the survey and to you who read all this page !** 
