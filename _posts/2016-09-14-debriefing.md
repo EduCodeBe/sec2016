@@ -38,15 +38,15 @@ Please, find below the survey results and some of our conclusions and ideas :)
 
 ### Did everybody come?
 
-How many people finally attend : **97 persons registered, 3 persons didn't show but were excused, 2 persons simply didn't show**.
+How many people finally attend : **97 persons registered, 3 persons didn't show up but were excused, 2 persons simply didn't show up**.
 
 <div data-figure="chart" data-series="rows" data-focus="chart"></div>
 
 | Attendees status | Percent of attendees | 
 | ---------------- | -------------------: |
-| Show             |  94.85%              |
-| No show, excused |   3.09%              |
-| No show          |   2.06%              |
+| Present          |  94.85%              |
+| Absent, excused  |   3.09%              |
+| Absent           |   2.06%              |
 
 **Our feelings:** 
 <br>
