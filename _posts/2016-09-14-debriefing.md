@@ -54,7 +54,7 @@ We are __very pleased__ to have seen almost every registered person finally came
 
 ### From where?
 
-<div data-figure="chart" data-type="line" data-series="columns" data-focus="chart"></div>
+<div data-figure="chart" data-type="bar" data-series="rows" data-focus="chart"></div>
 
 | From             | Percent of attendees | 
 | ---------------- | -------------------: |
@@ -117,7 +117,7 @@ NB : multiple choices were allowed.
 
 ### General satisfaction (practical side)
 
-<div data-figure="chart" data-type="line" data-series="columns" data-focus="chart"></div>
+<div data-figure="chart" data-type="bar" data-series="rows" data-focus="chart"></div>
 
 | Areas                       | Satisfaction indice (on 5) |
 | --------------------------- | -------------------------: |
@@ -148,7 +148,7 @@ NB : multiple choices were allowed.
 
 ### Talks satisfaction (or not)
 
-<div data-figure="chart" data-type="line" data-series="columns" data-focus="chart"></div>
+<div data-figure="chart" data-type="bar" data-series="rows" data-focus="chart"></div>
 
 | Areas                      | Satisfaction indice (on 5) |
 | -------------------------- | -------------------------: |
